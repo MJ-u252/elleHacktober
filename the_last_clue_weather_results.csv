@@ -1,0 +1,3 @@
+observation_date,city_name,country_code,latitude_deg,longitude_deg,min_temp_f,avg_temp_f,max_temp_f,feels_like_f,total_precip_in,total_snowfall_in,snow_depth_in,avg_wind_mph,max_wind_mph,wind_dir_deg,cloud_cover_pct,humidity_pct
+2025-10-31,calgary,CA,51.0447000,-114.0719000,23.9,36.1,48.5,33.2,0.00,0.00,0.0,4.2,7.9,188,68,63.0
+2025-11-01,calgary,CA,51.0447000,-114.0719000,36.3,49.4,58.3,46.2,0.02,0.00,0.0,8.9,21.2,231,40,59.0
